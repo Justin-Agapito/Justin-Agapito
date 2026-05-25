@@ -49,16 +49,6 @@ I'm a developer who loves crafting clean, functional web experiences — from ro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kaaru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaaru&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌱 Current Chapter
