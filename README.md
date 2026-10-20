@@ -12,7 +12,7 @@
 
 ## 👋 Hey there, I'm Justin
 
-I'm Carl Justin Agapito, a full stack developer based in Sipalay City, Philippines. I build web applications with **ASP.NET Core**, **Laravel**, and **React**, from database design and REST APIs to the UI on top.
+I'm Carl Justin Agapito, a full stack developer based in Philippines. I build web applications with **ASP.NET Core**, **Laravel**, and **React**, from database design and REST APIs to the UI on top.
 
 > *"First, solve the problem. Then, write the code."*
 
